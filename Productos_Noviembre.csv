@@ -1,0 +1,11 @@
+ProductoID;NombreProducto;Categoría;Precio
+101;Laptop;Electrónica;800
+102;Smartphone;Electrónica;500
+103;Tablet;Electrónica;300
+104;Monitor;Accesorios;150
+105;Mouse;Accesorios;25
+106;Teclado;Accesorios;30
+107;Auriculares;Accesorios;45
+108;Cargador;Electrónica;55
+109;Silla;Accesorios;170
+110;Escritorio;Accesorios;200
